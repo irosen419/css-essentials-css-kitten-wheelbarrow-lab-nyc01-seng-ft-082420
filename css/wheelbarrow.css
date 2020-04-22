@@ -32,7 +32,7 @@ img {
   position: absolute;
   background: url(../images/wheelbarrow-foreground.png) no-repeat;
   z-index: 10;
-  top: 300px;
+  top: 220px;
 }
 
 #basket, #ball {
